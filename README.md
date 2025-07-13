@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="img/github-header-image.png" alt="JoshuaAndriano" width="800"/>
+  <img src="img/github-header-image.png" alt="JoshuaAndriano" width="600"/>
 </p>
 
 ### Hello Ladies and Gentleman! This is your Captain Speaking I'm Joshua Andriano👋
 
-Selamat datang di profile saya! Meskipun saya memulai dengan sapaan seorang kapten, di darat saya lebih dikenal sebagai seorang yang antusias dengan dunia web development, desain UI/UX, Formula 1, dan Sim Racing.
+Welcome to my profile! Although I start with a captain's greeting, on land I'm better known as someone who is enthusiastic about the world of web development, UI/UX design, Formula 1, and Sim Racing.
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/12/df/b5/12dfb5e0b7491cd5b5f231a5bd2b9043.gif" alt="Formula 1 GIF" width="600"/>
@@ -14,9 +14,9 @@ Selamat datang di profile saya! Meskipun saya memulai dengan sapaan seorang kapt
 
 ### 👨‍💻 About Me
 
-Saya adalah seorang pemula yang bersemangat dalam menjelajahi dunia pengembangan web. Saat ini, fokus utama saya adalah membangun fondasi yang kuat di **React** dan **Next.js**. Saya juga sedang dalam perjalanan untuk memahami **Python** yang akan saya gunakan untuk data engineering dan machine learning di masa depan.
+I am an enthusiastic beginner exploring the world of web development. Currently, my main focus is building a strong foundation in **React** and **Next.js**. I'm also on a journey to understand **Python** which I will use for data engineering and machine learning in the future.
 
-Ketertarikan saya sangat besar pada penciptaan pengalaman pengguna yang menarik dan intuitif, itulah mengapa saya juga tertarik dengan bidang **UI/UX design**.
+I have a great interest in creating engaging and intuitive user experiences, which is why I'm also interested in **UI/UX design**.
 
 ---
 
@@ -33,13 +33,13 @@ Ketertarikan saya sangat besar pada penciptaan pengalaman pengguna yang menarik 
 
 ### 🤝 Open for Collaboration
 
-Saya sangat terbuka untuk berkolaborasi dalam proyek-proyek menarik, terutama yang berkaitan dengan web development dan UI/UX. Jika Anda memiliki ide atau proyek yang membutuhkan kontribusi, jangan ragu untuk menghubungi saya!
+I'm very open to collaborating on exciting projects, especially those related to web development and UI/UX. If you have ideas or projects that need contribution, don't hesitate to contact me!
 
 ---
 
 ### 🏎️ Beyond the Code
 
-Di luar dunia coding, saya adalah penggemar berat **Formula 1** dan dengan bangga mendukung tim **Mercedes-AMG Petronas F1 Team**. Saya juga menikmati sensasi balap melalui **Sim Racing**, yang menurut saya memiliki banyak kesamaan dengan proses pengembangan: membutuhkan fokus, strategi, dan eksekusi yang presisi!
+Outside the world of coding, I'm a huge **Formula 1** fan and proudly support the **Mercedes-AMG Petronas F1 Team**. I also enjoy the thrill of racing through **Sim Racing**, which I think has many similarities to the development process: it requires focus, strategy, and precise execution!
 
 ---
 
