@@ -1,4 +1,6 @@
-![JoshuaAndriano](img/github-header-image.png)
+<p align="center">
+  <img src="img/github-header-image.png" alt="JoshuaAndriano" width="800"/>
+</p>
 
 ### Hello Ladies and Gentleman! This is your Captain Speaking I'm Joshua Andriano👋
 
