@@ -1,3 +1,5 @@
+![JoshuaAndriano](img/github-header-image.png)
+
 ### Hello Ladies and Gentleman! This is your Captain Speaking I'm Joshua Andriano👋
 
 Selamat datang di profile saya! Meskipun saya memulai dengan sapaan seorang kapten, di darat saya lebih dikenal sebagai seorang yang antusias dengan dunia web development, desain UI/UX, Formula 1, dan Sim Racing.
