@@ -2,8 +2,6 @@
   <img src="img/github-header-image.png" alt="JoshuaAndriano" width="600"/>
 </p>
 
-Welcome to my profile! Although I start with a captain's greeting, on land I'm better known as someone who is enthusiastic about the world of web development, UI/UX design, Formula 1, and Sim Racing.
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/12/df/b5/12dfb5e0b7491cd5b5f231a5bd2b9043.gif" alt="Formula 1 GIF" width="600"/>
 </p>
