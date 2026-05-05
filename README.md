@@ -2,8 +2,6 @@
   <img src="img/github-header-image.png" alt="JoshuaAndriano" width="600"/>
 </p>
 
-### Hello Ladies and Gentleman! This is your Captain Speaking I'm Joshua Andriano👋
-
 Welcome to my profile! Although I start with a captain's greeting, on land I'm better known as someone who is enthusiastic about the world of web development, UI/UX design, Formula 1, and Sim Racing.
 
 <p align="center">
